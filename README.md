@@ -1,6 +1,4 @@
-\#Github and git conflict
-
-
+#Github and git conflict
 
 Name: Alexander(Xander) Gomez
 Started UNO: August 2023
